@@ -2,10 +2,10 @@
 <widget id="com.neodevel.network" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>NetworkConnection</name>
     <description>
-        A blank PhoneGap app.
+        Una aplicación para probar el Plugin Connection del Apache Cordova
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="hugo.sanchezalcala@gmail.com" href="http://neodevel.com">
+        Hugo Sánchez Alcalá
     </author>
     <content src="index.html" />
     <access origin="*" />
